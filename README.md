@@ -31,3 +31,8 @@ Las pipelines de testing continuo(Selenium, JUnit, Karate, Robot Framework) conl
 
 ¿Cómo se ejecutan las pipelines de testing continuo?
 La ejecución es solamente de tipo manual mediante la opción de construir con parámetros (build with parameters), se eligen los tipos de prueba a ejecutar y hay una serie de registros de resultados en la herramienta ALM.
+
+
+## Autor
+Alejandro Velaz
+🎓 Formación: ASIR
