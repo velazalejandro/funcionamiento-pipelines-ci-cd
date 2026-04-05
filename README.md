@@ -1,5 +1,5 @@
 # funcionamiento-pipelines-ci-cd
-FUNCIONAMIENTO PIPELINES INTEGRACIÓN CONTINUA
+## FUNCIONAMIENTO PIPELINES INTEGRACIÓN CONTINUA
 
 Para crear repositorios en GitLab hay que tener en cuenta lo siguiente:
 1. El código se tiene que convertir mediante formato UTF-8.
